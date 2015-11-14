@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">O$tentação</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="question_mark">\?</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">O$tentação. Desenvolvido por Davi.\nSample do funk fornecido pelo DJ Kairoz (Obrigado!).</string>
+</resources>
